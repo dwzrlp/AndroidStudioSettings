@@ -2,14 +2,13 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="ma_clinique_digitale_keystore" type="AUTO_DETECTED" />
-      <removed_mapping ext="pro" type="DeviceSpecFile" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="pt" type="PLAIN_TEXT" />
       <mapping ext="klib" type="PLAIN_TEXT" />
-      <mapping ext="pro" type="Shrinker Config File" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="klib" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
