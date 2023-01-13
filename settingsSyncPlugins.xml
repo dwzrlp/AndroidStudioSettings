@@ -1,0 +1,325 @@
+<application>
+  <component name="SettingsSyncPlugins">
+    <option name="plugins">
+      <map>
+        <entry key="Dart">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.xml" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="GrepConsole">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="HighlightBracketPair">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="String Manipulation">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="cn.dxy.app.DxyJsonToDart">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="Dart" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="com.jetbrains.sh" />
+                  <option value="org.jetbrains.plugins.terminal" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="cn.neday.excavator">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                  <option value="org.jetbrains.plugins.terminal" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="cn.yiiguxing.plugin.translate">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.crzsc.FlutterAssetsGenerator">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="Dart" />
+                  <option value="com.intellij.modules.all" />
+                  <option value="com.intellij.modules.json" />
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="io.flutter" />
+                  <option value="org.jetbrains.kotlin" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.github.fawaz.flutter-freezed-snippets">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.herbert.george.flutter-snippets">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.intellij.javafx">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.intellij.marketplace">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.localizely.flutter-intl">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="Dart" />
+                  <option value="com.intellij.modules.all" />
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="org.jetbrains.plugins.yaml" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.mallowigi">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.markskelton.one-dark-theme">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.ruiyu.ruiyu">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="Dart" />
+                  <option value="com.intellij.modules.all" />
+                  <option value="com.intellij.modules.json" />
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="io.flutter" />
+                  <option value="org.jetbrains.kotlin" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.tao.bloc">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.all" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.wakatime.intellij.plugin">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.wang.vcs">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.xtu.plugins.reviewer">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.javafx" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="de.mariushoefler.flutter_enhancement_suite">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="Dart" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="io.flutter" />
+                  <option value="org.jetbrains.plugins.yaml" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="io.flutter">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="Dart" />
+                  <option value="Git4Idea" />
+                  <option value="com.intellij.modules.coverage" />
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="com.intellij.modules.xdebugger" />
+                  <option value="org.jetbrains.android" />
+                  <option value="org.jetbrains.plugins.yaml" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="izhangzhihao.rainbow.brackets">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="mobi.hsz.idea.gitignore">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.vcs" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="zielu.gittoolbox">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="Git4Idea" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
